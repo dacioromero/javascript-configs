@@ -6,7 +6,8 @@
   ],
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "precommit": "lint-staged"
     }
   },
   "commitlint": {
@@ -15,11 +16,27 @@
       "@commitlint/config-lerna-scopes"
     ]
   },
+  "lint-staged": {
+    "*.js": [
+      "eslint --cache --fix",
+      "prettier --write"
+    ]
+  },
+  "prettier": "@dacio/prettier-config",
+  "dependencies": {
+    "@dacio/eslint-config": "^0.2.0",
+    "@dacio/prettier-config": "^0.2.0"
+  },
+  "eslintConfig": {
+    "extends": "@dacio"
+  },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "@commitlint/config-lerna-scopes": "^8.3.4",
+    "eslint": "^6.8.0",
     "husky": "^4.2.3",
-    "lerna": "^3.20.2"
+    "lerna": "^3.20.2",
+    "prettier": "^1.19.1"
   }
 }
