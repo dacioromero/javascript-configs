@@ -1,0 +1,23 @@
+{
+  "name": "@dacio/eslint-config-typescript",
+  "version": "0.2.0",
+  "description": "Dacio's ESLint config for TypeScript.",
+  "homepage": "https://github.com/dacioromero/javascript-configs#readme",
+  "bugs": "https://github.com/dacioromero/javascript-configs/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacioromero/javascript-configs.git",
+    "directory": "packages/eslint-config-typescript"
+  },
+  "license": "MIT",
+  "author": "Dacio Romero <dacioromero@gmail.com> (dacio.dev)",
+  "main": "index.js",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.23.0",
+    "@typescript-eslint/parser": "^2.23.0",
+    "eslint": "^6.8.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

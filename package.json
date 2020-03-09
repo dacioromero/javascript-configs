@@ -17,24 +17,25 @@
     ]
   },
   "lint-staged": {
-    "*.js": [
-      "eslint --cache --fix",
-      "prettier --write"
-    ]
+    "*.js": "eslint --cache --fix",
+    "*.{md,json}": "prettier --write"
   },
   "prettier": "@dacio/prettier-config",
-  "dependencies": {
-    "@dacio/eslint-config": "^0.2.0",
-    "@dacio/prettier-config": "^0.2.0"
-  },
   "eslintConfig": {
-    "extends": "@dacio"
+    "extends": "@dacio",
+    "env": {
+      "node": true
+    }
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "@commitlint/config-lerna-scopes": "^8.3.4",
+    "@dacio/eslint-config": "^0.2.0",
+    "@dacio/prettier-config": "^0.2.0",
     "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-prettier": "^3.1.2",
     "husky": "^4.2.3",
     "lerna": "^3.20.2",
     "prettier": "^1.19.1"

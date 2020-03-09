@@ -1,0 +1,25 @@
+{
+  "name": "@dacio/eslint-config-react",
+  "version": "0.2.0",
+  "description": "Dacio's ESlint config for React.",
+  "homepage": "https://github.com/dacioromero/javascript-configs#readme",
+  "bugs": {
+    "url": "https://github.com/dacioromero/javascript-configs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacioromero/javascript-configs.git",
+    "directory": "packages/eslint-config-react"
+  },
+  "license": "MIT",
+  "author": "Dacio Romero <dacioromero@gmail.com> (dacio.dev)",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

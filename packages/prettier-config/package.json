@@ -12,6 +12,9 @@
   "license": "MIT",
   "author": "Dacio Romero <dacioromero@gmail.com> (dacio.dev)",
   "main": "index.js",
+  "peerDependencies": {
+    "prettier": "^1.19.1"
+  },
   "publishConfig": {
     "access": "public"
   }
