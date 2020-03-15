@@ -80,7 +80,7 @@ const reactRules = {
   // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-target-blank.md
   'react/jsx-no-target-blank': [
     'warn',
-    { allowReferrer: false, enforceDynamicLinks: true }
+    { allowReferrer: false, enforceDynamicLinks: 'always' }
   ],
   // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-undef.md
   'react/jsx-no-undef': 'warn',
