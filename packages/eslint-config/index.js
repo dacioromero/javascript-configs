@@ -664,6 +664,7 @@ const rules = {
 module.exports = {
   plugins: ['import', 'prettier'],
   parserOptions: {
+    sourceType: 'module',
     ecmaVersion: 2018
   },
   rules
