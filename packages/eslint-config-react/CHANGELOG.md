@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.7](https://github.com/dacioromero/javascript-configs/compare/v0.2.6...v0.2.7) (2020-03-15)
+
+
+### Bug Fixes
+
+* **eslint-config-react:** actually remove unreleased config ([86fbf27](https://github.com/dacioromero/javascript-configs/commit/86fbf27552aa666565d967930dd5e7341ed8e38b))
+
+
+
+
+
 ## [0.2.6](https://github.com/dacioromero/javascript-configs/compare/v0.2.5...v0.2.6) (2020-03-15)
 
 
