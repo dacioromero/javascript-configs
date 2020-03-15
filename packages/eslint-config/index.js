@@ -596,7 +596,7 @@ const importRules = {
   // https://github.com/benmosher/eslint-plugin-import/tree/master/docs/rules/no-deprecated.md
   'import/no-deprecated': 'warn',
   // https://github.com/benmosher/eslint-plugin-import/tree/master/docs/rules/no-duplicates.md
-  'import/no-duplicates': 'error',
+  'import/no-duplicates': 'warn',
   // https://github.com/benmosher/eslint-plugin-import/tree/master/docs/rules/no-dynamic-require.md
   // 'import/no-dynamic-require': 'off',
   // https://github.com/benmosher/eslint-plugin-import/tree/master/docs/rules/no-extraneous-dependencies.md
@@ -626,7 +626,7 @@ const importRules = {
   // https://github.com/benmosher/eslint-plugin-import/tree/master/docs/rules/no-unassigned-import.md
   // 'import/no-unassigned-import': 'off',
   // https://github.com/benmosher/eslint-plugin-import/tree/master/docs/rules/no-unresolved.md
-  'import/no-unresolved': 'warn',
+  'import/no-unresolved': 'error',
   // https://github.com/benmosher/eslint-plugin-import/tree/master/docs/rules/no-unused-modules.md
   'import/no-unused-modules': [
     'warn',
