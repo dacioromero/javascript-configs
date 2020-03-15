@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.3](https://github.com/dacioromero/js-config/compare/v0.2.2...v0.2.3) (2020-03-15)
+
+
+### Bug Fixes
+
+* **eslint-config:** add sourceType to parserOptions ([af9455a](https://github.com/dacioromero/js-config/commit/af9455a5f1afaaa4e3700e940041b1bee4efe85f))
+
+
+### Features
+
+* **eslint-config:** make more similar to plugin:import/recommended ([d99a058](https://github.com/dacioromero/js-config/commit/d99a058e2699df00323f7947ee1633af194c9063))
+
+
+
+
+
 ## [0.2.1](https://github.com/dacioromero/js-config/compare/v0.2.0...v0.2.1) (2020-03-15)
 
 
