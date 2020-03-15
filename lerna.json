@@ -1,5 +1,11 @@
 {
   "version": "0.2.0",
   "npmClient": "yarn",
-  "packages": ["packages/*"]
+  "packages": ["packages/*"],
+  "command": {
+    "version": {
+      "conventionalCommits": true,
+      "noPush": true
+    }
+  }
 }
