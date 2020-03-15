@@ -7,7 +7,7 @@
   "command": {
     "version": {
       "conventionalCommits": true,
-      "noPush": true
+      "push": false
     }
   }
 }
