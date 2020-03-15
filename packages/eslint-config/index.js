@@ -339,7 +339,7 @@ const baseRules = {
   // https://eslint.org/docs/rules/func-names
   // 'func-names': 'off',
   // https://eslint.org/docs/rules/func-style
-  'func-style': ['error', 'declaration'],
+  'func-style': ['error', 'declaration', { allowArrowFunctions: true }],
   // https://eslint.org/docs/rules/function-call-argument-newline
   // 'function-call-argument-newline': 'off', // Prettier
   // https://eslint.org/docs/rules/function-paren-newline
