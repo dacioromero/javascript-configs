@@ -4,10 +4,12 @@
   "packages": [
     "packages/*"
   ],
+  "useWorkspaces": true,
   "command": {
     "version": {
       "conventionalCommits": true,
-      "push": false
+      "push": false,
+      "yes": true
     }
   }
 }
