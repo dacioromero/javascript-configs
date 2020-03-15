@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.4](https://github.com/dacioromero/javascript-configs/compare/v0.2.3...v0.2.4) (2020-03-15)
+
+
+### Bug Fixes
+
+* **eslint-config:** set allowArrowFunctions true on func-style ([0ac44cf](https://github.com/dacioromero/javascript-configs/commit/0ac44cf5536d231c0383c45ce05a73dcd571433d))
+
+
+
+
+
 ## [0.2.3](https://github.com/dacioromero/javascript-configs/compare/v0.2.2...v0.2.3) (2020-03-15)
 
 
