@@ -65,7 +65,9 @@ const rules = {
   'react/state-in-constructor': ['error', 'never'],
   'react/static-property-placement': ['warn', 'property assignment'],
   'react/style-prop-object': 'warn',
-  'react/void-dom-elements-no-children': 'error'
+  'react/void-dom-elements-no-children': 'error',
+  'react-hooks/rules-of-hooks': 'error',
+  'react-hooks/exhaustive-deps': 'warn'
 }
 
 module.exports = {
@@ -79,6 +81,6 @@ module.exports = {
       version: 'detect'
     }
   },
-  plugins: ['react'],
+  plugins: ['react-hooks'],
   rules
 }
