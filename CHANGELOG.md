@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/dacioromero/javascript-configs/compare/v0.2.1...v0.2.2) (2020-03-15)
+
+
+### Bug Fixes
+
+* **eslint-config-react:** fix react/jsx-no-target-blank options ([0741dfa](https://github.com/dacioromero/javascript-configs/commit/0741dfac77e7fdc1589566df4234579174c56c80))
+
+
+
+
+
 ## [0.2.1](https://github.com/dacioromero/javascript-configs/compare/v0.2.0...v0.2.1) (2020-03-15)
 
 
