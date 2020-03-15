@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.5](https://github.com/dacioromero/js-config/compare/v0.2.4...v0.2.5) (2020-03-15)
+
+
+### Features
+
+* **eslint-config:** extend recommended configs, remove commented out ([e8ef01b](https://github.com/dacioromero/js-config/commit/e8ef01bac4ea376814bc5b686cdbe4b907e6c0b4))
+
+
+
+
+
 ## [0.2.4](https://github.com/dacioromero/js-config/compare/v0.2.3...v0.2.4) (2020-03-15)
 
 

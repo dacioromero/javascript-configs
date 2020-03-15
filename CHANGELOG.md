@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.5](https://github.com/dacioromero/javascript-configs/compare/v0.2.4...v0.2.5) (2020-03-15)
+
+
+### Features
+
+* **eslint-config:** extend recommended configs, remove commented out ([e8ef01b](https://github.com/dacioromero/javascript-configs/commit/e8ef01bac4ea376814bc5b686cdbe4b907e6c0b4))
+* **eslint-config-react:** add prettier peer and preset ([5cb8d20](https://github.com/dacioromero/javascript-configs/commit/5cb8d20f32a363a0d761f91274ae99d33ca9f2de))
+* **eslint-config-react:** use xtends, remove commented out ([738dab6](https://github.com/dacioromero/javascript-configs/commit/738dab6c3771c02c177766d0d0e965311a1881f9))
+* **eslint-config-typescript:** extend others, remove commented out ([4418d4c](https://github.com/dacioromero/javascript-configs/commit/4418d4c8b61a3361fe2a3675c536afcd8979b17f))
+* **prettier-config:** remove commented out code ([7bb9824](https://github.com/dacioromero/javascript-configs/commit/7bb982450a7af661e60caaf26e870d9b130046b6))
+
+
+
+
+
 ## [0.2.4](https://github.com/dacioromero/javascript-configs/compare/v0.2.3...v0.2.4) (2020-03-15)
 
 
