@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.8](https://github.com/dacioromero/javascript-configs/compare/v0.2.7...v0.2.8) (2020-03-16)
+
+
+### Bug Fixes
+
+* **eslint-config-react:** extend react preset from import plugin ([b86aa53](https://github.com/dacioromero/javascript-configs/commit/b86aa5355c306a4f6522793a358a2c97482c671c))
+
+
+
+
+
 ## [0.2.7](https://github.com/dacioromero/javascript-configs/compare/v0.2.6...v0.2.7) (2020-03-15)
 
 
