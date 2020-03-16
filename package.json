@@ -40,5 +40,9 @@
     "husky": "^4.2.3",
     "lerna": "^3.20.2",
     "prettier": "^1.19.1"
+  },
+  "resolutions": {
+    "**/optimist/minimist": "^0.2.1",
+    "**/mkdirp/minimist": "^0.2.1"
   }
 }
