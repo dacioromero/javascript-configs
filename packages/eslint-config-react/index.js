@@ -10,7 +10,6 @@ const rules = {
   'react/jsx-fragments': ['error', 'syntax'],
   'react/jsx-handler-names': 'warn',
   'react/jsx-key': ['error', { checkFragmentShorthand: true }],
-  'react/jsx-max-props-per-line': 'error',
   'react/jsx-no-bind': [
     'warn',
     {
