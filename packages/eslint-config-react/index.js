@@ -71,7 +71,11 @@ const rules = {
 }
 
 module.exports = {
-  extends: ['plugin:react/recommended', 'prettier/react'],
+  extends: [
+    'plugin:react/recommended',
+    'prettier/react',
+    'plugin:import/react'
+  ],
   settings: {
     react: {
       version: 'detect'
