@@ -13,7 +13,7 @@
   "author": "Dacio Romero <dacioromero@gmail.com> (dacio.dev)",
   "main": "index.js",
   "peerDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.0"
   },
   "peerDependenciesMeta": {
     "prettier": {
