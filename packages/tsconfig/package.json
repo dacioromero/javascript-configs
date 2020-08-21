@@ -1,6 +1,6 @@
 {
   "name": "@dacio/tsconfig",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "description": "Dacio's TSConfig",
   "keywords": [
     "typescript",

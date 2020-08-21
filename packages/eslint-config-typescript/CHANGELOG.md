@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.12](https://github.com/dacioromero/javascript-configs/compare/v0.2.11...v0.2.12) (2020-08-21)
+
+
+### Bug Fixes
+
+* **eslint-config-typescript:** loosen peerDependecies ([02f3050](https://github.com/dacioromero/javascript-configs/commit/02f30502a1a51856b246c97193cc97c175d74136))
+* loosen peerDependencies ([3249cd1](https://github.com/dacioromero/javascript-configs/commit/3249cd1fd18a79793167d50bd61726540021c52c))
+
+
+
+
+
 ## [0.2.11](https://github.com/dacioromero/javascript-configs/compare/v0.2.10...v0.2.11) (2020-08-21)
 
 **Note:** Version bump only for package @dacio/eslint-config-typescript

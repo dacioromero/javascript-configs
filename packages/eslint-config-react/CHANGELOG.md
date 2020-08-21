@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.12](https://github.com/dacioromero/javascript-configs/compare/v0.2.11...v0.2.12) (2020-08-21)
+
+
+### Bug Fixes
+
+* **eslint-config-react:** loosen peerDependecies ([e2f13eb](https://github.com/dacioromero/javascript-configs/commit/e2f13ebeb5c3f2cfbde642dbe876410193e1013f))
+* loosen peerDependencies ([3249cd1](https://github.com/dacioromero/javascript-configs/commit/3249cd1fd18a79793167d50bd61726540021c52c))
+
+
+
+
+
 ## [0.2.11](https://github.com/dacioromero/javascript-configs/compare/v0.2.10...v0.2.11) (2020-08-21)
 
 **Note:** Version bump only for package @dacio/eslint-config-react

@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.12](https://github.com/dacioromero/js-config/compare/v0.2.11...v0.2.12) (2020-08-21)
+
+
+### Bug Fixes
+
+* **prettier-config:** loosen peerDependecies ([ce8ed55](https://github.com/dacioromero/js-config/commit/ce8ed5503ece6379b2af14d447933f35dab3b077))
+* loosen peerDependencies ([3249cd1](https://github.com/dacioromero/js-config/commit/3249cd1fd18a79793167d50bd61726540021c52c))
+
+
+
+
+
 ## [0.2.11](https://github.com/dacioromero/js-config/compare/v0.2.10...v0.2.11) (2020-08-21)
 
 **Note:** Version bump only for package @dacio/prettier-config
