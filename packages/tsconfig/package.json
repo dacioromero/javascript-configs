@@ -1,0 +1,23 @@
+{
+  "name": "@dacio/tsconfig",
+  "version": "0.2.9",
+  "description": "Dacio's TSConfig",
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "homepage": "https://github.com/dacioromero/javascript-configs#readme",
+  "bugs": {
+    "url": "https://github.com/dacioromero/javascript-configs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacioromero/javascript-configs.git",
+    "directory": "packages/tsconfig"
+  },
+  "license": "MIT",
+  "author": "Dacio Romero <dacioromero@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
