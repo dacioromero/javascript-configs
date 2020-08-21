@@ -1,6 +1,6 @@
 {
   "name": "@dacio/prettier-config",
-  "version": "0.2.5",
+  "version": "0.2.10",
   "description": "Dacio's Prettier config.",
   "homepage": "https://github.com/dacioromero/js-config#readme",
   "bugs": "https://github.com/dacioromero/js-config/issues",

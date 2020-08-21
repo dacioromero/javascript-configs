@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.10](https://github.com/dacioromero/javascript-configs/compare/v0.2.8...v0.2.10) (2020-08-21)
+
+
+### Bug Fixes
+
+* **eslint-config-react:** remove react/jsx-max-props-per-line ([0b27c16](https://github.com/dacioromero/javascript-configs/commit/0b27c167b12c16259b6b9553cd3ff483e9a766b1))
+
+
+
+
+
 ## [0.2.9](https://github.com/dacioromero/javascript-configs/compare/v0.2.8...v0.2.9) (2020-03-16)
 
 
