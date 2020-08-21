@@ -13,7 +13,7 @@
   "author": "Dacio Romero <dacioromero@gmail.com> (dacio.dev)",
   "main": "index.js",
   "peerDependencies": {
-    "@dacio/eslint-config": "^0.2.0",
+    "@dacio/eslint-config": "^0.2.0 || ^0.3.0",
     "@typescript-eslint/eslint-plugin": "^3.0.0",
     "@typescript-eslint/parser": "^3.0.0",
     "eslint": "^6.8.0 || ^7.0.0",
