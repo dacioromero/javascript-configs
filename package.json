@@ -18,7 +18,7 @@
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix",
-    "*.{md,json}": "prettier --write"
+    "*.{md,json,yml,js}": "prettier --write"
   },
   "prettier": "@dacio/prettier-config",
   "eslintConfig": {
