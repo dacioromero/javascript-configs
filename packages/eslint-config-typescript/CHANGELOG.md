@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/dacioromero/javascript-configs/compare/v0.3.0...v0.3.1) (2020-08-21)
+
+
+### Bug Fixes
+
+* **eslint-config-typescript:** loosen @dacio/eslint-config ([54cc155](https://github.com/dacioromero/javascript-configs/commit/54cc155f19abdd5163ea2058b1920aa6a59cece7))
+
+
+
+
+
 # [0.3.0](https://github.com/dacioromero/javascript-configs/compare/v0.2.13...v0.3.0) (2020-08-21)
 
 
