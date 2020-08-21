@@ -1,6 +1,6 @@
 {
   "name": "@dacio/eslint-config",
-  "version": "0.2.12",
+  "version": "0.3.0",
   "description": "Dacio's ESLint config.",
   "homepage": "https://github.com/dacioromero/eslint-config#readme",
   "bugs": "https://github.com/dacioromero/eslint-config/issues",
