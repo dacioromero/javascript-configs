@@ -7,9 +7,7 @@
     "tsconfig"
   ],
   "homepage": "https://github.com/dacioromero/javascript-configs#readme",
-  "bugs": {
-    "url": "https://github.com/dacioromero/javascript-configs/issues"
-  },
+  "bugs": "https://github.com/dacioromero/javascript-configs/issues",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dacioromero/javascript-configs.git",
