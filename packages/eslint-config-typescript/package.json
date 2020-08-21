@@ -1,6 +1,6 @@
 {
   "name": "@dacio/eslint-config-typescript",
-  "version": "0.2.5",
+  "version": "0.2.11",
   "description": "Dacio's ESLint config for TypeScript.",
   "homepage": "https://github.com/dacioromero/javascript-configs#readme",
   "bugs": "https://github.com/dacioromero/javascript-configs/issues",
@@ -26,6 +26,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@dacio/eslint-config": "^0.2.5"
+    "@dacio/eslint-config": "^0.2.11"
   }
 }
