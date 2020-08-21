@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.13](https://github.com/dacioromero/javascript-configs/compare/v0.2.12...v0.2.13) (2020-08-21)
+
+
+### Bug Fixes
+
+* **prettier-config:** correct typo ([e43baa1](https://github.com/dacioromero/javascript-configs/commit/e43baa1f2c019e728efbe520b18f1836ba944c8f))
+
+
+
+
+
 ## [0.2.12](https://github.com/dacioromero/javascript-configs/compare/v0.2.11...v0.2.12) (2020-08-21)
 
 
