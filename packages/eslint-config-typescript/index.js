@@ -66,12 +66,7 @@ const rules = {
     }
   ],
   '@typescript-eslint/return-await': ['error', 'in-try-catch'],
-  '@typescript-eslint/strict-boolean-expressions': [
-    'warn',
-    {
-      allowNullable: true
-    }
-  ],
+  '@typescript-eslint/strict-boolean-expressions': 'warn',
   '@typescript-eslint/switch-exhaustiveness-check': 'warn',
   '@typescript-eslint/unified-signatures': 'warn'
 }
