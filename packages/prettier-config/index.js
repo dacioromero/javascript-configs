@@ -3,6 +3,6 @@ module.exports = {
   singleQuote: true,
   quoteProps: 'as-needed',
   jsxSingleQuote: true,
-  trailingCommas: 'none',
+  trailingComma: 'none',
   arrowParens: 'avoid'
 }
