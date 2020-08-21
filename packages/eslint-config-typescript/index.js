@@ -10,12 +10,6 @@ const rules = {
   '@typescript-eslint/await-thenable': 'error',
   '@typescript-eslint/consistent-type-definitions': ['error', 'interface'],
   '@typescript-eslint/explicit-member-accessibility': 'off', // TODO:
-  '@typescript-eslint/member-naming': [
-    'warn',
-    {
-      private: '^_'
-    }
-  ],
   '@typescript-eslint/member-ordering': 'error',
   '@typescript-eslint/no-base-to-string': 'warn',
   '@typescript-eslint/no-extra-non-null-assertion': 'error',
